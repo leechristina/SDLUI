@@ -1,6 +1,6 @@
 # SDLUI
 
-
+This fork is an attempt to make a C port of this code.  It is easy to go from C to C++, but much more effort to convert C++ code to C only code.
 
 SDLUI is a bare bones GUI library made with SDL, for SDL, and written in a style that resembles SDL.
 It depends on standard SDL extensions (SDL_image, SDL_ttf).
